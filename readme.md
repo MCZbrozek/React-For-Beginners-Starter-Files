@@ -1,6 +1,6 @@
 ![](https://wes.io/dgAQ/content)
 
-06/28
+06/28/2022
 
 # React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
 
